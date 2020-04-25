@@ -1,5 +1,5 @@
 ﻿/* RandomQueue
- * --------------------------------------------
+ * ----------------------------------------------
  * Datei:     randomqueue.cs
  * Version:   24.04.2014
  * Besitzer:  Mathias Rentsch (rentsch@online.de)
